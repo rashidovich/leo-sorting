@@ -1,0 +1,8 @@
+[project]
+name = "sorting"
+version = "0.1.0"
+description = "The sorting package"
+license = "MIT"
+
+[remote]
+author = "[rashid#8591]" # Add your Aleo Package Manager username, team's name, or organization's name.
